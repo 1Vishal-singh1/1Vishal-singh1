@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1Vishal-singh1 
+- 👋 Hi, I’m Vishal singh 
 - 👀 I’m a intermediate coder 
 - 🤵 I work on solo projects 🛰 and do a little video editing 📽 
 - 🌱 I’m currently persuing my BTECH at Presidency University
