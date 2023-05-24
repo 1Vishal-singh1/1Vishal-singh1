@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishal singh 
 - 👀 I’m a intermediate coder 
+- 🏢 i work at CAPGEMINI as an SDE
 - 🤵 I work on solo projects 🛰 and do a little video editing 📽 
-- 🌱 I’m currently persuing my BTECH at Presidency University
 - 🔎 My personal intrests are on IOT 🤖 and free lance coding ⚡
 - 📫 How to reach me? by mailing me on vishal53804@gmail.com
 
